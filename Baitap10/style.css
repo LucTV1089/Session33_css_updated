@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(228, 227, 224);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+form{
+    position: absolute;
+
+}
+label,input{
+    margin: 5px;
+}
+button
+{
+    background-color: mediumblue;
+    color: white;
+    padding: 20px ;
+    border: none;
+    font-size: medium;
+    border-radius: 5px;
+    width: 100%;
+}
+input{
+    border-radius: 5px;
+    border: 1px solid gray;
+    height: 20px;
+}
+.note{
+    font-size: small;
+    color: gray;
+    padding-left: 10px;
+}
+select{
+    border-radius: 5px;
+    width: 150px;
+    height: 24px;
+}
+.content
+{
+    width: 475px;
+}
+.name
+{
+    width: 1000px;
+}
+.name_inp{
+    width: 227px;
+}
